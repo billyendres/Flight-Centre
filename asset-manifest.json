@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Flight/Centre/static/css/main.86621f23.chunk.css",
+    "main.js": "/Flight/Centre/static/js/main.88761df6.chunk.js",
+    "main.js.map": "/Flight/Centre/static/js/main.88761df6.chunk.js.map",
+    "runtime~main.js": "/Flight/Centre/static/js/runtime~main.e69a53ba.js",
+    "runtime~main.js.map": "/Flight/Centre/static/js/runtime~main.e69a53ba.js.map",
+    "static/js/2.7cb26a23.chunk.js": "/Flight/Centre/static/js/2.7cb26a23.chunk.js",
+    "static/js/2.7cb26a23.chunk.js.map": "/Flight/Centre/static/js/2.7cb26a23.chunk.js.map",
+    "index.html": "/Flight/Centre/index.html",
+    "precache-manifest.3420f86323f3b9953ab837fa95ec5bea.js": "/Flight/Centre/precache-manifest.3420f86323f3b9953ab837fa95ec5bea.js",
+    "service-worker.js": "/Flight/Centre/service-worker.js",
+    "static/css/main.86621f23.chunk.css.map": "/Flight/Centre/static/css/main.86621f23.chunk.css.map",
+    "static/media/EgyptImg.png": "/Flight/Centre/static/media/EgyptImg.870192d8.png",
+    "static/media/GrandImg.png": "/Flight/Centre/static/media/GrandImg.04a2cd13.png",
+    "static/media/SouthAmImg.png": "/Flight/Centre/static/media/SouthAmImg.c83dd227.png"
+  }
+}
