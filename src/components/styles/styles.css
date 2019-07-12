@@ -1,0 +1,70 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	padding-left: 6%;
+	padding-right: 6%;
+	margin-top: 1.5%;
+	font-family: "Open Sans", sans-serif;
+}
+
+.select {
+	margin-left: 17%;
+	margin-top: 4%;
+	font-family: "Open Sans", sans-serif;
+}
+
+.tours {
+	font-size: 1.6em;
+}
+
+.card {
+	width: 31.5%;
+	height: 20%;
+	border-radius: 2%;
+	border: 1px solid grey;
+	box-shadow: 1px 2px 2px 1px gainsboro;
+}
+
+.main-img {
+	border-top-left-radius: 2%;
+	border-top-right-radius: 2%;
+	width: 100%;
+	height: 11em;
+}
+
+.margin {
+	margin-left: 5%;
+}
+
+.header {
+	font-size: 1em;
+	margin-top: 2%;
+	margin-bottom: 0%;
+}
+
+.dates {
+	font-size: 0.75em;
+	margin-top: 2%;
+	margin-bottom: 0%;
+}
+
+.duration {
+	font-size: 0.75em;
+	margin-top: 2%;
+	margin-bottom: 0%;
+}
+
+.itinerary {
+	font-size: 0.75em;
+	margin-top: 2%;
+	margin-bottom: 0%;
+}
+
+.info {
+	font-size: 0.75em;
+	cursor: pointer;
+}
+
+.price {
+	font-size: 1.5em;
+}
