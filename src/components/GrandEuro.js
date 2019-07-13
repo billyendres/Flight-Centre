@@ -9,7 +9,6 @@ import TourInfo from "./jsonFile/sample_data.json";
 //npm packages
 import StarRatings from "react-star-ratings";
 const dateFormat = require("dateformat");
-console.log(TourInfo.results[0]);
 //Destructuring JSON data
 const data = TourInfo.results[0];
 //Formatting date while remaining dynamic from json data

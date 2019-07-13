@@ -2,10 +2,12 @@
 	"name": "flight-centre",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://billyendres.github.io/Flight-Centre/",
 	"dependencies": {
 		"axios": "^0.19.0",
 		"bootstrap": "^4.3.1",
 		"dateformat": "^3.0.3",
+		"gh-pages": "^2.0.1",
 		"react": "^16.8.6",
 		"react-bootstrap": "^1.0.0-beta.9",
 		"react-dom": "^16.8.6",
@@ -19,6 +21,8 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {

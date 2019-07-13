@@ -1,7 +1,6 @@
 import React, { Component, Fragment } from "react";
 import "./styles/styles.css";
 import SouthAmImg from "./images/SouthAmImg.png";
-
 //Bootstrap Imports
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
@@ -10,7 +9,6 @@ import TourInfo from "./jsonFile/sample_data.json";
 //npm packages
 import StarRatings from "react-star-ratings";
 const dateFormat = require("dateformat");
-console.log(TourInfo.results[0]);
 //Destructuring JSON data
 const data = TourInfo.results[1];
 //Formatting date while remaining dynamic from json data
