@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Flight-Centre/static/css/main.86621f23.chunk.css",
-    "main.js": "/Flight-Centre/static/js/main.88761df6.chunk.js",
-    "main.js.map": "/Flight-Centre/static/js/main.88761df6.chunk.js.map",
+    "main.css": "/Flight-Centre/static/css/main.5b8f8d02.chunk.css",
+    "main.js": "/Flight-Centre/static/js/main.cb0e5c98.chunk.js",
+    "main.js.map": "/Flight-Centre/static/js/main.cb0e5c98.chunk.js.map",
     "runtime~main.js": "/Flight-Centre/static/js/runtime~main.4ca1b5bf.js",
     "runtime~main.js.map": "/Flight-Centre/static/js/runtime~main.4ca1b5bf.js.map",
-    "static/js/2.7cb26a23.chunk.js": "/Flight-Centre/static/js/2.7cb26a23.chunk.js",
-    "static/js/2.7cb26a23.chunk.js.map": "/Flight-Centre/static/js/2.7cb26a23.chunk.js.map",
+    "static/js/2.0622765f.chunk.js": "/Flight-Centre/static/js/2.0622765f.chunk.js",
+    "static/js/2.0622765f.chunk.js.map": "/Flight-Centre/static/js/2.0622765f.chunk.js.map",
     "index.html": "/Flight-Centre/index.html",
-    "precache-manifest.c55528561f6b05874617fbbc0f660eda.js": "/Flight-Centre/precache-manifest.c55528561f6b05874617fbbc0f660eda.js",
+    "precache-manifest.79e0a174ae949caad41ba1946c27b558.js": "/Flight-Centre/precache-manifest.79e0a174ae949caad41ba1946c27b558.js",
     "service-worker.js": "/Flight-Centre/service-worker.js",
-    "static/css/main.86621f23.chunk.css.map": "/Flight-Centre/static/css/main.86621f23.chunk.css.map",
+    "static/css/main.5b8f8d02.chunk.css.map": "/Flight-Centre/static/css/main.5b8f8d02.chunk.css.map",
     "static/media/EgyptImg.png": "/Flight-Centre/static/media/EgyptImg.870192d8.png",
     "static/media/GrandImg.png": "/Flight-Centre/static/media/GrandImg.04a2cd13.png",
     "static/media/SouthAmImg.png": "/Flight-Centre/static/media/SouthAmImg.c83dd227.png"

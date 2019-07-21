@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afcebe54d6548798393881e13700e194",
+    "revision": "11a8920982b9dbf07af4ca9f04f782fb",
     "url": "/Flight-Centre/index.html"
   },
   {
-    "revision": "8fb08d07d9bfdc659f49",
-    "url": "/Flight-Centre/static/css/main.86621f23.chunk.css"
+    "revision": "c83891142b0dd144a11d",
+    "url": "/Flight-Centre/static/css/main.5b8f8d02.chunk.css"
   },
   {
-    "revision": "e88940ce91315999d3c3",
-    "url": "/Flight-Centre/static/js/2.7cb26a23.chunk.js"
+    "revision": "fa2f2336da2b66b33e4d",
+    "url": "/Flight-Centre/static/js/2.0622765f.chunk.js"
   },
   {
-    "revision": "8fb08d07d9bfdc659f49",
-    "url": "/Flight-Centre/static/js/main.88761df6.chunk.js"
+    "revision": "c83891142b0dd144a11d",
+    "url": "/Flight-Centre/static/js/main.cb0e5c98.chunk.js"
   },
   {
     "revision": "5489ca334222501fc084",
