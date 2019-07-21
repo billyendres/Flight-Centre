@@ -3,7 +3,8 @@ import "./styles/styles.css";
 import SouthAmImg from "./images/SouthAmImg.png";
 //Bootstrap Imports
 import Button from "react-bootstrap/Button";
-import Modal from "react-bootstrap/Modal";
+import OverlayTrigger from "react-bootstrap/OverlayTrigger";
+import Tooltip from "react-bootstrap/Tooltip";
 //JSON Data
 import TourInfo from "./jsonFile/sample_data.json";
 //npm packages
@@ -26,15 +27,6 @@ class SouthAm extends Component {
 
 	removeButton = () => {
 		this.setState({ button: !this.state.button });
-	};
-
-	//Modal Popup
-	handleClose = () => {
-		this.setState({ show: false });
-	};
-
-	handleShow = () => {
-		this.setState({ show: true });
 	};
 
 	render() {
@@ -108,21 +100,19 @@ class SouthAm extends Component {
 								marginRight: "5%"
 							}}
 						/>
-						{/* Modal popup/ state change */}
-						<span onMouseEnter={this.handleShow} className="info">
-							from <i className="fas fa-info-circle" />
-						</span>
-						<Modal
-							style={{ marginTop: "18em" }}
-							show={this.state.show}
-							onHide={this.handleClose}
+						<OverlayTrigger
+							key="top"
+							placement="top"
+							overlay={
+								<Tooltip id="tooltop-top">
+									Prices are per person and in Australian Dollars
+								</Tooltip>
+							}
 						>
-							<Modal.Header closeButton style={{ fontWeight: "700" }}>
-								{data.tour_name}
-							</Modal.Header>
-							<Modal.Body>Prices are per person and in Australian Dollars</Modal.Body>
-							<Modal.Footer />
-						</Modal>
+							<span className="info">
+								from <i className="fas fa-info-circle" />
+							</span>
+						</OverlayTrigger>
 						<Button
 							style={{
 								marginLeft: "38%",
