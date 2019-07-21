@@ -18,18 +18,6 @@ const date_end = dateFormat(data.date_end, "dd mmm yyyy");
 
 // REACT COMPONENT
 class Egypt extends Component {
-	state = { modal: false, show: false };
-
-	//Event Handlers
-	//Modal Popup
-	handleClose = () => {
-		this.setState({ show: false });
-	};
-
-	handleShow = () => {
-		this.setState({ show: true });
-	};
-
 	render() {
 		return (
 			// Card Setup all components dynamically imported from JSON file
